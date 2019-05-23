@@ -1,7 +1,7 @@
 ---
 title: "Aides Drug"
-author: "Put your name here!"
-date: "put the date here"
+author: "Ana Preciado"
+date: "May 2019"
 output: html_document
 ---
 
@@ -20,6 +20,8 @@ A new  preventative aides (abacavirinol) is under test in clinical trials. Analy
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
+The methods that are used for this experiment are Pearson's Chi-squared test with Yates' continuity correction, Fisher's Exact Test for Count Data, and barcharts for graphical descriptive results.
+
 
 #Results
 
